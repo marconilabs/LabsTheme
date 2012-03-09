@@ -75,7 +75,14 @@ td { vertical-align: top; }
    Author:
    ========================================================================== */
 
-
+#banner{
+	height:100px;
+}
+body{
+	width:800px;
+	margin-left:auto;
+	margin-right:auto;
+}
 
 
 
